@@ -1,12 +1,12 @@
 [{
 		"Super_12_Group_1": [{
 			"teams": "England",
-			"P": 1,
-			"W": 1,
+			"P": 2,
+			"W": 2,
 			"L": 0,
 			"NR": 0,
-			"Pts": 2,
-			"NRR": "+3.970"
+			"Pts": 4,
+			"NRR": "+3.614"
 		},{
 			"teams": "Sri Lanka",
 			"P": 1,
@@ -25,70 +25,62 @@
 			"NRR": "+0.253"
 		},{
 			"teams": "South Africa",
-			"P": 1,
-			"W": 0,
+			"P": 2,
+			"W": 1,
 			"L": 1,
 			"NR": 0,
 			"Pts": 0,
-			"NRR": "-0.253"
+			"NRR": "+0.179"
 		},{
 			"teams": "Bangladesh",
-			"P": 1,
+			"P": 2,
 			"W": 0,
-			"L": 1,
+			"L": 2,
 			"NR": 0,
 			"Pts": 0,
-			"NRR": "-0.583"
+			"NRR": "-1.655"
 		},{
 			"teams": "West Indies",
-			"P": 1,
+			"P": 2,
 			"W": 0,
-			"L": 1,
+			"L": 2,
 			"NR": 0,
 			"Pts": 0,
-			"NRR":"-3.970"
+			"NRR":"-2.550"
 		}]
 	}, {
 		"Super_12_Group_2": [{
 			"teams": "Pakistan",
+			"P": 2,
+			"W": 2,
+			"L": 0,
+			"NR": 0,
+			"Pts": 4,
+			"NRR": "+0.738"
+		},{
+			"teams": "Afghanistan",
 			"P": 1,
 			"W": 1,
 			"L": 0,
 			"NR": 0,
 			"Pts": 2,
-			"NRR": "+0.973"
-		},{
-			"teams": "New Zealand",
-			"P": 0,
-			"W": 0,
-			"L": 0,
-			"NR": 0,
-			"Pts": 0,
-			"NRR": 0.000
-		},{
-			"teams": "Afghanistan",
-			"P": 0,
-			"W": 0,
-			"L": 0,
-			"NR": 0,
-			"Pts": 0,
-			"NRR": 0.000
-		},{
-			"teams": "Scotland",
-			"P": 0,
-			"W": 0,
-			"L": 0,
-			"NR": 0,
-			"Pts": 0,
-			"NRR": 0.000
+			"NRR": "+6.500"
 		},{
 			"teams": "Namibia",
-			"P": 0,
-			"W": 0,
+			"P": 1,
+			"W": 1,
 			"L": 0,
 			"NR": 0,
+			"Pts": 2,
+			"NRR": "+0.550"
+		},{
+			"teams": "New Zealand",
+			"P": 1,
+			"W": 0,
+			"L": 1,
+			"NR": 0,
 			"Pts": 0,
-			"NRR": 0.000
+			"NRR": "-0.532"
 		},{
 			"teams": "India",
 			"P": 1,
@@ -97,6 +89,14 @@
 			"NR": 0,
 			"Pts": 0,
 			"NRR": "-0.973"
+		},{
+			"teams": "Scotland",
+			"P": 2,
+			"W": 0,
+			"L": 2,
+			"NR": 0,
+			"Pts": 0,
+			"NRR": "-3.562"
 		}]
 	}
 
